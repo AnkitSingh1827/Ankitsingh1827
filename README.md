@@ -47,15 +47,6 @@
 <br>
 <!-- ======================================================
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitSingh1827/AnkitSingh1827/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 <!-- ======================================================
 🔗 Social Links Section
 ====================================================== -->
