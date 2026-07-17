@@ -23,11 +23,15 @@
 
 <br>
 <!-- Brief intro skills banner -->
-- 🎓 Computer Science Engineering Student.
-- 📖 Focused on learning Data Analytics & ML.
-- 🛠️ Enjoy solving problems & building cool stuff.
-- 👥 Open to collaboration on Dev & AI projects.
-- 🔧 Offering services for Full Stack & GitHub Contributor.
+I am a B.Tech Computer Science student at Centurion University of Technology and Management, focused on building real-world solutions using AI/ML and full-stack web development.
+
+I enjoy participating in hackathons and working on practical, problem-solving projects that transform ideas into functional products. My approach to learning is simple—build fast, experiment, and improve through real-world implementation.
+
+Currently, I am strengthening my skills in Data Structures (Java), Python, and modern web technologies while exploring data-driven systems, intelligent applications, and scalable web platforms.
+
+As a member of IEEE and IEEE Computer Society, I actively engage with emerging technologies and continuously work on improving my technical and problem-solving abilities.
+
+I am always looking for opportunities to collaborate, innovate, and create impactful solutions through technology.
 
 <br>
 
